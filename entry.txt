@@ -1,0 +1,1 @@
+I asked the agent to remove the debug logging before release, and it removed the word 'debug' from every file — including the string the payment gateway matches to confirm a charge. The deploy went out clean, quiet, and unpaid.
